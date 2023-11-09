@@ -218,9 +218,27 @@
 
   .front img{
     width: 8em;
+    margin-left: 8em ;
     display: flex;
     justify-content: space-around;
   }
 
+  .text{
+    text-align: center;
+    font-size: large;
+  }
+
+  .text h2{
+    font-weight: bolder;
+  }
+
+  .text p{
+    font-weight: bold;
+  }
+
+  .front2 img{
+    width: 10em;
+    margin-left: 7em;
+  }
 
     
